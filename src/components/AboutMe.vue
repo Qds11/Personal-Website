@@ -41,6 +41,7 @@ img{
 .details{
   height: auto;
   width: 100;
+  line-height: 2;
 
 
  background-image:linear-gradient(to bottom right, rgba(255,0,0,0), rgba(20, 22, 72, 0.532));

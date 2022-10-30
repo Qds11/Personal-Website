@@ -128,7 +128,7 @@ hr{
     .proj-item {
         width: 100%;
 
-      
+
 
         /* animation: 2s slide-up 0.5s forwards;
         transform: translateY(150%); */
@@ -148,6 +148,7 @@ hr{
     }
 
     .proj-content {
+          line-height: 1.8;
         padding: 5px;
 
     }
@@ -165,8 +166,8 @@ hr{
 
 
 
-    .center {
-        align-self: center;
+    .mainUl >li {
+        padding: 5px 0;
     }
 
     .proj-item:nth-of-type(1) {
